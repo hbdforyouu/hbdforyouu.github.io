@@ -7,13 +7,13 @@
   -webkit-box-sizing: border-box;
 }
 body {
-  background: #E5E5E5;
-  background-image: url("/gray-floral.png");
+  background: #ffffff;
+  background-image: url("wh.jpg");
   padding: 50px;
 }
 
 #card-front {
-  color: #FFDFDF;
+  color: #2121c2;
 }
 
 #card, #card-front, #card-inside {
@@ -35,7 +35,7 @@ body {
 
 
 #card-inside .wrap {
-    background: #FFEFEF;
+    background: #ffffff;
     -webkit-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
     -moz-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
     box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
@@ -68,7 +68,7 @@ body {
     font-size: 1.1em;
     line-height: 1.4;
     font-family: 'Nobile';
-    color: #331717;
+    color: #e300b6;
     font-style: italic;
 }
 
@@ -88,7 +88,7 @@ p.signed {
 }
 
 #card-front {
-    background-color: #FF5555;
+    background-color: #250bd4;
     background-image: linear-gradient(top, #FF5555 0%, #FF7777 100%);
     background-image: -moz-linear-gradient(top, #FF5555 0%, #FF7777 100%);
     background-image: -webkit-linear-gradient(top, #FF5555 0%, #FF7777 100%);
@@ -156,7 +156,7 @@ p.signed {
 
 #card.open-fully #card-front,
 #card.close-half #card-front {
-  background: #FFEFEF;
+  background: #d4bcbc;
 }
 
 #card.open-fully #card-front {
